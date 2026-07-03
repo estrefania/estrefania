@@ -5,7 +5,8 @@
 
 ## Estadisticas de Githu
 
-<img width="1620" height="268" alt="github-iconos-lenguajes (1)" src="https://github.com/user-attachments/assets/b3671b0d-bf82-4982-aba1-00e0b91764f6"/>
+<img width="776" height="388" alt="github-lenguajes (1)" src="https://github.com/user-attachments/assets/7c44642c-345f-4005-97ac-21aab58b7051" />
+
 
 
 ## Lenguajes 
