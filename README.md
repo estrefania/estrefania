@@ -5,13 +5,13 @@
 
 ## Estadisticas de Githu
 
-<img width="776" height="388" alt="github-lenguajes (1)" src="https://github.com/user-attachments/assets/7c44642c-345f-4005-97ac-21aab58b7051" />
+<img width="776" height="388" alt="github-lenguajes" src="https://github.com/user-attachments/assets/98be076d-1281-4b42-92b7-514c49b358d4" />
 
 
 
 ## Lenguajes 
 
-<img width="1620" height="268" alt="github-iconos-lenguajes (1)" src="https://github.com/user-attachments/assets/b3671b0d-bf82-4982-aba1-00e0b91764f6"/>
+<img width="1620" height="268" alt="github-iconos-lenguajes" src="https://github.com/user-attachments/assets/4d167489-7696-40ae-8475-093e370ad208" />
 
 
 
