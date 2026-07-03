@@ -1,16 +1,14 @@
-## Hi there 👋
+ ​Mi nombre es Estefania Cespedes. Soy una apasionada de la tecnología enfocada en el desarrollo Full-Stack y especializada en el área de Back-End. Me motiva resolver problemas reales a través del código, y me destaco por mi curiosidad constante, aprendizaje continuo y capacidad de adaptación.
+​💻 Actualmente estudio para ser desarrolladora Full-Stack y me preparo intensamente para mi próximo rol como Python Trainee (TI) a través de Talento Digital y Alura Latam.
+​🛠️ Mis conocimientos técnicos incluyen el manejo de Python, Java, SQL, JavaScript, HTML, CSS y Git.
+​🏋️‍♀️ En mi tiempo libre entreno en el gimnasio, una disciplina de fuerza que me desafía física y mentalmente, ayudándome a mantener el enfoque y la constancia.
 
-<!--
-**estrefania/estrefania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estadisticas de Githu
+<img width="1620" height="268" alt="github-iconos-lenguajes (1)" src="https://github.com/user-attachments/assets/b3671b0d-bf82-4982-aba1-00e0b91764f6"/>
 
-Here are some ideas to get you started:
+## Lenguajes 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="776" height="388" alt="github-lenguajes (1)" src="https://github.com/user-attachments/assets/0bb80a36-0610-4c71-91c7-d9da979ae873" />
+
+
+
