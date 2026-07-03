@@ -4,11 +4,14 @@
 ​🏋️‍♀️ En mi tiempo libre entreno en el gimnasio, una disciplina de fuerza que me desafía física y mentalmente, ayudándome a mantener el enfoque y la constancia.
 
 ## Estadisticas de Githu
+
 <img width="1620" height="268" alt="github-iconos-lenguajes (1)" src="https://github.com/user-attachments/assets/b3671b0d-bf82-4982-aba1-00e0b91764f6"/>
+
 
 ## Lenguajes 
 
-<img width="776" height="388" alt="github-lenguajes (1)" src="https://github.com/user-attachments/assets/0bb80a36-0610-4c71-91c7-d9da979ae873" />
+<img width="1620" height="268" alt="github-iconos-lenguajes (1)" src="https://github.com/user-attachments/assets/b3671b0d-bf82-4982-aba1-00e0b91764f6"/>
+
 
 
 
